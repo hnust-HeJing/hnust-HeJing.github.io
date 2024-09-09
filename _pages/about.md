@@ -12,21 +12,9 @@ redirect_from:
 
 ## 科研成果
 
-● Lihong Zhang, **Jing He**, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint
+● Lihong Zhang, **Jing He**, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑API Similarities. International Conference on Computer Supported Cooperative Work in Design.IEEE Computer Society, pp. 1219‑1224,2024 (CCF C类会议)
 
-Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑
-
-API Similarities. International Conference on Computer Supported Cooperative Work in Design.
-
-IEEE Computer Society, pp. 1219‑1224,2024 (CCF C类会议)
-
-● Weike Zhou, Xiaokang Zhou, **Jing He**, Yamei Nie, Qiqi Chen, Guosheng Kang*. Online Course Rec‑
-
-ommendation by Exploring User Interaction and Course Description. International Conference
-
-on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 2973‑2979,
-
-2024.(CCF C类会议)
+● Weike Zhou, Xiaokang Zhou, **Jing He**, Yamei Nie, Qiqi Chen, Guosheng Kang*. Online Course Recommendation by Exploring User Interaction and Course Description. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 2973‑2979,2024.(CCF C类会议)
 
 ● 王晓亮,廖涛,**贺静**,闫茂林,李浩铭.一种新型艾灸结构,2023.12.12,实用新型专利,申请号:2023233804696
 
@@ -36,20 +24,12 @@ on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 297
 
 **● 基于图像识别和语音交互的智能艾灸仪**（国家级大学生创业训练项目， 2023.06‑2024.06）
 
-**项目简介**：该项目是一款智能艾灸机器人——融合了传统医学和现代科技，主要由机械臂、点燃装置、夹取
-
-装置、敲灰与推进装置、灭火装置、视觉传感、语音控制和智能温控八大模块组成，实现了艾灸过程的全自
-
-动化。
+**项目简介**：该项目是一款智能艾灸机器人——融合了传统医学和现代科技，主要由机械臂、点燃装置、夹取装置、敲灰与推进装置、灭火装置、视觉传感、语音控制和智能温控八大模块组成，实现了艾灸过程的全自动化。
 
 
 ● **跨组织业务流程开放协作平台工具**（2022.12‑2023.05）
 
-**项目简介**：提出了一种基于协调器的跨组织业务流程协作方法，其中协调器主要负责对任务发布者传递的价值对象
-
-和策略信息进行分析和决策，以此找到能够满足自身需求的协作方，并建立临时协作关系，取代传统的以人工方式
-
-建立固定协作的方法。
+**项目简介**：提出了一种基于协调器的跨组织业务流程协作方法，其中协调器主要负责对任务发布者传递的价值对象和策略信息进行分析和决策，以此找到能够满足自身需求的协作方，并建立临时协作关系，取代传统的以人工方式建立固定协作的方法。
 
 **部署地址**：http://124.223.167.70:8082/
 
