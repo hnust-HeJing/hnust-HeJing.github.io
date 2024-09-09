@@ -21,7 +21,7 @@ repository               : "hnust-HeJing/hnust-HeJing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_profile.png"
   name             : "Jing He（贺静）"
   pronouns         : "she/her"  
   bio              : "Hunan University of Science and Technology(HNUST)"
