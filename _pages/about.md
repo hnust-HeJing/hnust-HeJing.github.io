@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-#### 科研成果
+##科研成果
 
 ● Lihong Zhang, **Jing He**, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑API Similarities. International Conference on Computer Supported Cooperative Work in Design.IEEE Computer Society, pp. 1219‑1224,2024 (CCF C类会议)
 
@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-#### 项目经历
+## 项目经历
 
 **● 基于图像识别和语音交互的智能艾灸仪**（国家级大学生创业训练项目， 2023.06‑2024.06）
 
@@ -37,7 +37,7 @@ redirect_from:
 
 
 
-#### 竞赛获奖
+## 竞赛获奖
 
 ‧ **贺静（1/5)**. 第十一届全国大学生数字媒体科技作品及创意竞赛国赛二等奖. 2023.11
 
