@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-​    **I am a senior undergraduate student from School of Computer Science and Engineering, Hunan University of Science and Technology. Thank you very much for visiting my personal homepage. If you have any questions, feel free to contact me.**
+​    **I am a senior undergraduate student from School of Computer Science and Engineering, Hunan University of Science and Technology. Thank you very much for visiting my personal homepage. If you have any questions, feel free to contact me by email:hej913921@gmail.com.**
 
 
 ## 科研成果
