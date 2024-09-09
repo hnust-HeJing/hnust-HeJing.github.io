@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "HeJing"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-​    **您好！我叫贺静，现为湖南科技大学计算机科学与工程学院数据科学与大数据技术专业的本科生。非常感谢您访问我的个人主页，如果您有任何疑问，欢迎通过邮箱与我联系：hej913921@gmail.com。感谢您的关注，期待有机会与您进一步交流。**
+​    **您好！我叫贺静，现为湖南科技大学计算机科学与工程学院数据科学与大数据技术专业的本科生。非常感谢您访问我的个人主页，如果您有任何疑问，欢迎通过电话与我联系：18274739736。感谢您的关注，期待有机会与您进一步交流。**
 
 
 
-##科研成果
+## 科研成果
 
 ● Lihong Zhang, **Jing He**, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑API Similarities. International Conference on Computer Supported Cooperative Work in Design.IEEE Computer Society, pp. 1219‑1224,2024 (CCF C类会议)
 
